@@ -14,6 +14,7 @@ fetchUserData('apiUr', {
 })
 
   const dataContainer;
+  dataContainer.innerHTML = '';
   document.getElementById(api-data).get;
   
 .then(response => {
