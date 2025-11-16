@@ -10,7 +10,13 @@ fetchUserData('apiUr', {
     body: JSON.stringify({
         name: 'New Data',
         description: 'Important information'
-    }) // it should be changed to string
+    }) // <nav>
+        const userList;
+        <ul>
+            <li><a href="#userList">dataContainer</a></li>
+        </ul>
+    </nav>it should be changed to string
+   
 })
 
   const dataContainer;
